@@ -1,0 +1,71 @@
+{
+  "result": true,
+  "prices_data": [
+    {
+      "pro_id": 1,
+      "prices": [
+        {
+          "price_id": 1,
+          "price": 100.00
+        },
+        {
+          "price_id": 2,
+          "price": 150.00
+        }
+      ]
+    },
+    {
+      "pro_id": 2,
+      "prices": [
+        {
+          "price_id": 1,
+          "price": 200.00
+        },
+        {
+          "price_id": 2,
+          "price": 350.00
+        }
+      ]
+    },
+    {
+      "pro_id": 3,
+      "prices": [
+        {
+          "price_id": 1,
+          "price": 300.00
+        },
+        {
+          "price_id": 2,
+          "price": 250.00
+        }
+      ]
+    },
+    {
+      "pro_id": 4,
+      "prices": [
+        {
+          "price_id": 1,
+          "price": 200.00
+        }
+      ]
+    },
+    {
+      "pro_id": 5,
+      "prices": [
+        {
+          "price_id": 1,
+          "price": 400.00
+        }
+      ]
+    },
+    {
+      "pro_id": 6,
+      "prices": [
+        {
+          "price_id": 1,
+          "price": 600.00
+        }
+      ]
+    }
+  ]
+}
