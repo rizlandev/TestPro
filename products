@@ -1,0 +1,35 @@
+{
+  "result": true,
+  "product_data": [
+    {
+      "pro_id": 1,
+      "pro_description": "Apple",
+      "pro_cat_id": 1
+    },
+    {
+      "pro_id": 2,
+      "pro_description": "Mango",
+      "pro_cat_id": 1
+    },
+    {
+      "pro_id": 3,
+      "pro_description": "Red Rice",
+      "pro_cat_id": 2
+    },
+    {
+      "pro_id": 4,
+      "pro_description": "Dhal",
+      "pro_cat_id": 2
+    },
+    {
+      "pro_id": 5,
+      "pro_description": "Carrot",
+      "pro_cat_id": 3
+    },
+    {
+      "pro_id": 6,
+      "pro_description": "Brinjals",
+      "pro_cat_id": 3
+    }
+  ]
+}
