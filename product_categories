@@ -1,0 +1,17 @@
+{
+  "result": true,
+  "product_cat": [
+    {
+      "pro_cat_id": 1,
+      "cat_description": "Fruits"
+    },
+    {
+      "pro_cat_id": 2,
+      "cat_description": "Groceries"
+    },
+    {
+      "pro_cat_id": 3,
+      "cat_description": "Vegitables"
+    }
+  ]
+}
